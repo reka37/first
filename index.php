@@ -1,4 +1,9 @@
 <?php
 
-echo 'git';
+
+include 'class.php';
+
+
+$testget = new Testgit('first odject');
+
 ?>
