@@ -4,6 +4,6 @@
 include 'class.php';
 
 
-$testget = new Testgit('first odject -------------');
+$testget = new Testgit('first odject -------------+++++++++++++');
 
 ?>
