@@ -2,4 +2,4 @@
 
 include 'class.php';
 
-$testgit = new Testgit('this is git. I am second proger next');
+$testgit = new Testgit('111111this is git. I am second proger next1111');
